@@ -2,7 +2,7 @@
 
 STACK_NAME="micheystack"
 INSTANCE_TYPE="t2.micro"
-DIR="/home/ec2-user/tp2-cloud-formation"
+DIR="/home/ec2-user/tp-cloud-aws/tp2-cloud-formation"
 AWS_REGION="eu-west-3"
 
 TYPE_CLOUD_FORMATION=""
