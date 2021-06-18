@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "EnvironementName",
+    "ParameterValue": "EnvMickey"
+  }, 
+  {
+    "ParameterKey": "KeyPairName",
+    "ParameterValue": "MickeyKey"
+  }, 
+  {
+    "ParameterKey": "InstanceImageId",
+    "ParameterValue": "ami-00c08ad1a6ca8ca7c"
+  },
+  {
+    "ParameterKey": "BucketName",
+    "ParameterValue": "MickeyBucket"
+  }
+]

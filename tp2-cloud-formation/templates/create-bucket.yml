@@ -1,0 +1,18 @@
+# Un modèle de bucket S3
+
+---
+AWSTemplateFormatVersion: '2010-09-09'
+
+Description: tp2-template-mickey
+
+Parameters:
+  BucketName:
+    Description: The name of bucket S3.
+    Type: String
+    Default: "Bucket S3 Mickey"
+
+Resources:
+  MyS3Bucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 'tp2-learn-cloudformation-mickey'
